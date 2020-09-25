@@ -7,9 +7,11 @@ tags: ["art", "culture", "book", "reprint", "classic", "indigenous languages", "
 
 ---
 
+### About
 
 https://www.nlsa.ac.za/
 
+- See GLAM's intro [here](https://drive.google.com/drive/folders/1YeR4GwCFkGS1RtFtOHGBEUFMRprQvX6k?usp=sharing)
 
 ### Challenges:
 

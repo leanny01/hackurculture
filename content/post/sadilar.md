@@ -22,6 +22,8 @@ SADiLaR has an enabling function, with a focus on all official languages of Sout
 
 SADiLaR clients include academic scholars and professionals in all domains of Humanities and Social Sciences, Language Technologies, Natural Language Processing, Computer Science, as well as potential end-users in education, business and industry.
 
+https://www.districtsix.co.za/
+
 - See GLAM's intro [here](https://drive.google.com/drive/folders/1CBpnWze1QZyGoXNVxO-1GOKeBT3uBtOl?usp=sharing)
 
 

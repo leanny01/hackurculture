@@ -10,6 +10,8 @@ tags: [Sustainability,Awareness]
 
 The South African History Archive (SAHA) is an independent human rights archive dedicated to documenting, supporting and promoting greater awareness of past and contemporary struggles for justice through archival practices and outreach, and the utilisation of access to information laws.
 
+http://www.saha.org.za/
+
 - See GLAM's intro [here](https://drive.google.com/drive/folders/102N7d9bP6wJEjomGZOZRFoRtjeOleAWv?usp=sharing)
 
 

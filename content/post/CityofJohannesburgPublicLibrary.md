@@ -8,6 +8,8 @@ tags: [Edutainment, Awareness, Virtual Experiences and Virtual merchandising]
 
 ---
 
+### About
+
 Johannesburg's public libraries are hubs of education, giving residents access to books, magazines and audio-visual materials.
 Besides lending out material, the City’s libraries offer a wide-range of other services including literacy classes, storytelling
 sessions for youngsters, classroom support, gatherings for older residents and literary competitions.
@@ -15,6 +17,8 @@ They are also the venues for lectures, exhibitions, and talks. Libraries can be 
 
 
 [Joburg Libraries and Information Services](https://www.joburg.org.za/departments_/Pages/City%20directorates%20including%20departmental%20sub-directorates/Library/Libraries-and-Information-Services.aspx/)
+
+- See GLAM's intro [here](https://drive.google.com/drive/folders/1b9fe7yuN1x0gWguvG3dZNFdYDjru14rF?usp=sharing)
 
 ### Challenges:
 

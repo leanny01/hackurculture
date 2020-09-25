@@ -8,10 +8,13 @@ tags: [ Awareness]
 
 ---
 
+### About
 
 Gala is a centre for Lesbian, Gay, Bisexual, Transgender, Intersex and Queer (LGBTIQ)  culture and education in South Africa. Our mission is to act as a catalyst for the production, preservation and dissemination of knowledge on the history, culture and contemporary experiences of LGBTIQ people.
 
 https://gala.co.za//
+
+- See GLAM's intro [here](https://drive.google.com/drive/folders/1BlFNQv8i3-VbI-2t-tofj4lMI4P5zaC-?usp=sharing)
 
 ### Challenges:
 

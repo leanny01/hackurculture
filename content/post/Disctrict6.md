@@ -2,7 +2,7 @@
 title: "District 6 Museum"
 date: 2020-09-25
 featured_image: 'images/district-six-foundation-formatkey-jpg-default.jpg'
-description: "https://www.districtsix.co.za/"
+description: ""
 tags: [Awareness, Sustainability, Edutainment, archive, game]
 
 ---
@@ -12,6 +12,7 @@ tags: [Awareness, Sustainability, Edutainment, archive, game]
 The ‘Hands Off District Six’ conference of 1988 led to the formation of the District Six Museum Foundation in 1989.
 The Foundation worked towards the establishment of the Museum which was launched on 10 December 1994 with its inaugural exhibition called Streets: Retracing District Six.
 
+https://www.districtsix.co.za/
 
 - See GLAM's intro [here](https://drive.google.com/drive/folders/102N7d9bP6wJEjomGZOZRFoRtjeOleAWv?usp=sharing)
 

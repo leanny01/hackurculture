@@ -8,9 +8,13 @@ tags: [digitisation]
 
 ---
 
+### About
+
 The Nest Collective is a multidisciplinary arts collective living and working in Nairobi. Founded in 2012, we create works in film, music, fashion, visual arts and literature...
 
 http://www.thisisthenest.com/
+
+- See GLAM's intro [here](https://drive.google.com/drive/folders/1DBxAKYEOKJVLWJc4v59yGwgbyKCHKUu3?usp=sharing)
 
 ### Challenges:
 

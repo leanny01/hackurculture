@@ -8,9 +8,12 @@ tags: [digitisation]
 
 ---
 
+### About
 Africa’s first dedicated  finance, business support and knowledge facility for creative industries.
 
 http://www.hevafund.com/
+
+- See GLAM's intro [here](https://drive.google.com/drive/folders/1zdb_HKoaHQ1Gu8GYI1Yt15Rj_-E0mDPn?usp=sharing)
 
 ### Challenges:
 
