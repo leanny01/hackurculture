@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = "HackUrCulture"
-subtitle = "GLAMS Data"
+subtitle = "“Without big data, you are blind and deaf and in the middle of a freeway.” – Geoffrey Moore."
 
 [design.background]
   # Background color.
