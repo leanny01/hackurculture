@@ -1,6 +1,6 @@
 ---
 title: "Wits Art Museum"
-date: 2020-09-25
+date: 2020-09-26
 featured_image: 'images/cropped-crest_wam-logo-formatkey-jpg-w245.jpg'
 description: "https://www.wits.ac.za/wam"
 tags: ["Awareness"]
