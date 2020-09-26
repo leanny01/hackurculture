@@ -1,5 +1,5 @@
 ---
-title: "South African Classic Project"
+title: "Wits Art Museum"
 date: 2020-09-25
 featured_image: 'images/cropped-crest_wam-logo-formatkey-jpg-w245.jpg'
 description: "https://www.wits.ac.za/wam"
@@ -17,7 +17,7 @@ Awareness of the institution and its collection/archive, remote access to cultur
 
 ### Data set available:
 
-- To be determined
+- [Link](https://drive.google.com/drive/folders/1S3ORni2fffnY_zGYJRGAawotNGcQrk_L?usp=sharing)
 
 
 ### Problem statement
