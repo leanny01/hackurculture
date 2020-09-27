@@ -8,7 +8,7 @@ tags: [Awareness, Sustainability, Edutainment]
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "images/phrases-formatkey-jpg-w245.jpg"
+  image: ""
 
 image:
   placement: 1

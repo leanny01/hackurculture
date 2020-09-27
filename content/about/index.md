@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "images/hack.png"
 ---
 
 ### Welcome to Hack Ur Culture
