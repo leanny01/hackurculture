@@ -1,13 +1,16 @@
 ---
 title: "Goethe-Institut Cameroon African German Phrasebook"
 date: 2020-09-25
-featured_image: "images/phrases-formatkey-jpg-w245.jpg"
 description: "
 "
 
 tags: [Awareness, Sustainability, Edutainment]
-
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: "images/phrases-formatkey-jpg-w245.jpg"
 ---
+
 
 ### About
 The idea for this special phrase book was developed during the workshop series "Going Kompyuta" at the Goethe-Institut Cameroon. The aim was to bring together modern information technology and the promotion of African languages.
