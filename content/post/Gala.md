@@ -1,5 +1,5 @@
 ---
-title: "Queer and Lesbian archive (GALA)"
+title: "Queer and Lesbian Archive (GALA)"
 date: 2020-09-25
 featured_image: "images/gala-1.png"
 description: ""
