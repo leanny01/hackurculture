@@ -8,6 +8,7 @@ weight = 10  # Order that this section will appear in.
 title = "HackUrCulture"
 subtitle = "“It is a capital mistake to theorize before one has data.” — Sherlock Holmes"
 
+
 [design.background]
   # Background color.
   color = "#090a0b"

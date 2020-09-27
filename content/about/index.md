@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "images/hack.png"
+  image: "images/HUC-HEADER.jpg"
 ---
 
 ### Welcome to Hack Ur Culture
@@ -94,7 +94,7 @@ Additional training and workshops to be announced soon.
 
 #### Guest lectures and panel discussions program
 
-1. Guest lecture delivered by Chao Tayiana - 2 October 2020
+1. Guest lecture delivered by Chao Tayiana - ``2 October ``
 2. Panel discussion: Cultural Heritage in education today - 8 October 2020
 3. Collaborative guest lecture delivered by Dr. Same Mdluli and Kutlwano Mokgojwa -  9October 2020
 4. Panel discussion: Gender bias in curating cultural heritage collections - 15 October 2020
