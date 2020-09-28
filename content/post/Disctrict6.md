@@ -14,7 +14,7 @@ The Foundation worked towards the establishment of the Museum which was launched
 
 https://www.districtsix.co.za/
 
-- See GLAM's intro [here](https://drive.google.com/drive/folders/102N7d9bP6wJEjomGZOZRFoRtjeOleAWv?usp=sharing)
+- See GLAM's intro [here](https://drive.google.com/drive/folders/1xC8T_Xnkb6rOWvYTvsYGrFHMVvb7dGYs?usp=sharing)
 
 
 
