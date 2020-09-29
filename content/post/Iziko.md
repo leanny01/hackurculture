@@ -1,7 +1,7 @@
 ---
-title: "Human Sciences Research Council"
-date: 2020-09-25
-featured_image: "images/hsrc-logo.png"
+title: "Iziko Museums"
+date: 2020-09-29
+featured_image: ""
 description: ""
 
 tags: [Access,Awareness, digitisation]
@@ -9,6 +9,7 @@ tags: [Access,Awareness, digitisation]
 ---
 
 ### About
+
 Iziko Museums of South Africa operates 11 national museums in Cape Town.  It is one of the premier cultural institutions in South Africa.  The museums house natural history, social history and art collections in magnificent, historic buildings which in themselves are national treasures.
 
 https://www.iziko.org.za/about
