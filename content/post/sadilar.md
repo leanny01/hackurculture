@@ -61,7 +61,8 @@ This speech corpus consisting of 16 female speakers and 17 male speakers was rec
 - Click [here](https://repo.sadilar.org/discover?filtertype=collectionType&filter_relational_operator=equals&filter=Resource+Catalogue) to access the rest of the data.
 
 
-The above dataset is licended under [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+The above dataset is licensed under
+ > [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Problem statement
 

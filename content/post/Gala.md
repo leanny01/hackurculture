@@ -24,7 +24,8 @@ Awareness of the institution and its archive, education of staff to actively tak
 
 - [Media and content](https://drive.google.com/drive/folders/1r2v4NU-EYklr-HmH2kl_Wt8Cm9wqii_x?usp=sharing)
 
-The above dataset is licended under [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+The above dataset is licensed under
+ > [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ### Problem statement

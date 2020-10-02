@@ -27,7 +27,8 @@ Awareness, sustainability, Remote access to cultural heritage data, artefacts, a
 The above dataset is licended under [Link](https://drive.google.com/drive/folders/1oARsJ8OiDsuVzQKE6xiF_Pcmvaesv2yK?usp=sharing
 )
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+The above dataset is licensed under
+ > [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Problem statement
 
