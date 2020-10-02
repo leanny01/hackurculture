@@ -33,6 +33,10 @@ Promotion of the Book Dash collection of books and to see creative adaptations o
 
 Click [here](https://drive.google.com/drive/folders/1T52zyNuOxJfKFZEz2aFV83Jda2m0mTet?usp=sharing) to access the directory.
 
+### Licences
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ### Tags
 
 
