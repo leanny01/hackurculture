@@ -24,7 +24,9 @@ Remote access to archive and collection, changing business models, sustainabilit
 
 ### Data set available:
 
-The museum has digitised quite a number of images in it's archive, but not all of it - we digitise as needed.  Some material, like AV documentation of project work and oral history interviews, are born digital. We have a number of oral history transcripts at our disposal.
+The museum has digitized quite a number of images in it's archive, but not all of it - we digitized as needed.  Some material, like AV documentation of project work and oral history interviews, are born digital. We have a number of oral history transcripts at our disposal.
+
+Click [here](https://drive.google.com/drive/folders/1mj3FRwiEayLs1jN43IhrY30dfqiTve_4?usp=sharing) to access the archive.
 
 The above dataset is licensed under
  > [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -33,7 +35,7 @@ The above dataset is licensed under
 
 Creating access to archive through curated project content. Creating access /use of archive in online educational game.
 
-Click [here](https://drive.google.com/drive/folders/1mj3FRwiEayLs1jN43IhrY30dfqiTve_4?usp=sharing) to access the directory.
+
 
 
 
