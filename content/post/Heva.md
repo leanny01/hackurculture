@@ -1,6 +1,6 @@
 ---
 title: "HEVA"
-date: 2020-09-25
+date: 2020-10-02
 featured_image: "images/heva-logo-formatkey-png-w245.png"
 description: ""
 
@@ -24,6 +24,7 @@ Implementing digital transformation
 
 - anecdotal evidence shared by representatives
 
+The above dataset is licended under [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ### Problem statement

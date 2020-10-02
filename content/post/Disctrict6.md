@@ -1,6 +1,6 @@
 ---
 title: "District 6 Museum"
-date: 2020-09-25
+date: 2020-10-02
 featured_image: 'images/district-six-foundation-formatkey-jpg-default.jpg'
 description: ""
 tags: [Awareness, Sustainability, Edutainment, archive, game]
@@ -26,11 +26,15 @@ Remote access to archive and collection, changing business models, sustainabilit
 
 The museum has digitised quite a number of images in it's archive, but not all of it - we digitise as needed.  Some material, like AV documentation of project work and oral history interviews, are born digital. We have a number of oral history transcripts at our disposal.
 
+The above dataset is licended under [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ### Problem statement
 
 Creating access to archive through curated project content. Creating access /use of archive in online educational game.
 
 Click [here](https://drive.google.com/drive/folders/1mj3FRwiEayLs1jN43IhrY30dfqiTve_4?usp=sharing) to access the directory.
+
+
 
 ### Tags
 

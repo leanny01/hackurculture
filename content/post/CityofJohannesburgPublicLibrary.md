@@ -35,14 +35,13 @@ Edutainment, Awareness, Virtual Experiences and Virtual merchandising
 
 
 
+The above dataset is licended under [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ### Problem statement
 
 Need an online platform/website that can be accessible to users/public to easily find information about libraries and services. To support this a communication channel/forum that will empower libraries to better communicate with the public.
 
-### Licences
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Tags
 
