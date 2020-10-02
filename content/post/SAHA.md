@@ -28,6 +28,8 @@ Sustainability, digital access to archives, awareness of the institution and its
 
 Note: require sign up to access the data.
 
+The above dataset is licensed under
+ > [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Problem statement
 

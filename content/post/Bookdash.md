@@ -1,6 +1,6 @@
 ---
 title: "Book Dash"
-# date: 2020-09-23T14:16:38+02:00
+date: 2020-10-02
 featured_image: 'images/book-dash-logo-formatkey-jpg-w245.jpg'
 description: ""
 tags: [Awareness, Sustainability, Edutainment, Books, Kids]
@@ -26,15 +26,15 @@ Awareness, Sustainability, Edutainment
 
 ### Data set available:
 
-- [Book Dash Intro](https://www.dropbox.com/s/r9ma4g28hl4sixv/Hack%20Ur%20Culture%20Book%20Dash%20Intro.mp4?dl=0)
 - [20 different books from the Book Dash collection](https://drive.google.com/drive/folders/1T52zyNuOxJfKFZEz2aFV83Jda2m0mTet?usp=sharing)
 
+The above dataset is licensed under
+ > [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Problem statement
 
 Promotion of the Book Dash collection of books and to see creative adaptations of the open access book.
 
-Click [here](https://drive.google.com/drive/folders/1T52zyNuOxJfKFZEz2aFV83Jda2m0mTet?usp=sharing) to access the directory.
 
 ### Tags
 

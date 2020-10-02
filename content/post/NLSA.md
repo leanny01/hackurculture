@@ -24,8 +24,11 @@ Awareness, sustainability, Remote access to cultural heritage data, artefacts, a
 - Special collections
 - Supporting metadata
 
-[Link](https://drive.google.com/drive/folders/1oARsJ8OiDsuVzQKE6xiF_Pcmvaesv2yK?usp=sharing
+The above dataset is licended under [Link](https://drive.google.com/drive/folders/1oARsJ8OiDsuVzQKE6xiF_Pcmvaesv2yK?usp=sharing
 )
+
+The above dataset is licensed under
+ > [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Problem statement
 

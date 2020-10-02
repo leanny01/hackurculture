@@ -1,6 +1,6 @@
 ---
 title: "Goethe-Institut Cameroon African German Phrasebook"
-date: 2020-09-25
+date: 2020-10-02
 description: "
 "
 
@@ -20,6 +20,9 @@ image:
 
 
 ### About
+
+
+
 The idea for this special phrase book was developed during the workshop series "Going Kompyuta" at the Goethe-Institut Cameroon. The aim was to bring together modern information technology and the promotion of African languages.
 
 The Android app currently offers 150 daily terms in 51 different languages. Up to three languages can be displayed simultaneously next to each other. The terms are clearly arranged in 13 categories. Simply clicking on a term starts the audio output. The repertoire of available languages can be extended at any time.
@@ -41,9 +44,15 @@ Awareness, Edutainment
 [Application data from the African German Phrasebook app](https://drive.google.com/drive/folders/1fXMi9h1e5SqGqIZQacY6ep_vRlfHWe6D?usp=sharing)
 
 
+ The above dataset is licensed under
+ > [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
 ### Problem statement
 
 Creating access to archive through curated project content. Creating access /use of archive in online educational game.
+
 
 ### Tags
 

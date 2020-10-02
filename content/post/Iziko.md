@@ -26,7 +26,8 @@ Remote access to archive, Education of staff to actively take steps towards digi
 - annual reports
 - [Various metadata: catalogue cards on DB called logo flows,excel sheets,](https://drive.google.com/drive/folders/1uhKW6x4kwhhrCZfxhofjuudjFZJMy5dy?usp=sharing)
 
-
+The above dataset is licensed under
+ > [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Problem statement
 

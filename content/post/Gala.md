@@ -1,6 +1,6 @@
 ---
 title: "Queer and Lesbian Archive (GALA)"
-date: 2020-09-25
+date: 2020-10-02
 featured_image: "images/gala-1.png"
 description: ""
 
@@ -23,6 +23,9 @@ Awareness of the institution and its archive, education of staff to actively tak
 ### Data set available:
 
 - [Media and content](https://drive.google.com/drive/folders/1r2v4NU-EYklr-HmH2kl_Wt8Cm9wqii_x?usp=sharing)
+
+The above dataset is licensed under
+ > [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 ### Problem statement
